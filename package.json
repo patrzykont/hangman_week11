@@ -1,0 +1,22 @@
+{
+  "name": "node-hangman-game",
+  "version": "1.0.0",
+  "description": "Hangman using constructors, objects and Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrzykont/hangman_week11.git"
+  },
+  "author": "Aaron Patrzykont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrzykont/hangman_week11/issues"
+  },
+  "homepage": "https://github.com/patrzykont/hangman_week11#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
